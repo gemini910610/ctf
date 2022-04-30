@@ -1,1 +1,95 @@
-# ctf
+### 目錄
+* [Crypto](#crypto)
+* [MISC](#misc)
+* [工具](#工具)
+* [程式碼](#程式碼)
+---
+# Crypto
+### Bugku CTF
+|[連結](https://ctf.bugku.com/challenges/index/gid/1/tid/6.html)||||||
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|/.-|聰明的小羊|ok|[+-<>]|你喜歡下棋嗎|easy_crypto|
+|7+1+0|簡單加密|散亂的密文|.?!|一段Base64|奇怪的密碼|
+|告訴你個秘密|這不是md5|貝斯家族|進制轉換|affine||
+### OverTheWire Natas
+* [連結](https://overthewire.org/wargames/natas/natas0.html)
+* natas0 ~ natas11
+* natas14（密碼：Lg96M10TdfaPyVBkJdjymbllQ5L6qdl1）
+---
+# MISC
+|[連結](https://ctf.bugku.com/challenges/index/gid/1/tid/4.html)|持續增加中...||||
+|:-:|:-:|:-:|:-:|:-:|
+|1和0的故事|這是一張單純的圖片|telnet|眼見非實|啊噠|
+---
+# 工具
+* [Burp suite](https://portswigger.net/burp/releases/professional-community-2022-3-6?requestededition=community&requestedplatform=)
+* [循序解碼](https://cryptii.com/)
+* [密碼分析](https://www.dcode.fr/cipher-identifier)
+* [Winhex](https://x-ways.net/winhex/)
+* Convert.exe[下載](http://down.99u2.com:8099/down/Converter.rar)
+* [摩斯密碼mp3解碼](https://morsecode.world/international/decoder/audio-decoder-adaptive.html)
+* [因式分解](http://factordb.com/)
+* [AES/DES解碼](https://tool.oschina.net/encrypt)
+---
+# 程式碼
+### Wiener's attack（RSA）
+* python
+```python
+import owiener
+c = 0
+e = 0
+n = 0
+d = owiener.attack(e, n)
+print(d)
+```
+### 文字轉ASCII
+* python
+```python
+string s = 'AAAAAAA'
+for t in s:
+    print(ord(t), end=' ')
+```
+* c++
+```cpp
+string s = "AAAAAAA";
+for(char c : s)
+{
+    cout << int(c) << " ";
+}
+```
+* java
+```java
+String s = "AAAAAAA";
+for(int i = 0;i < s.length();i++)
+{
+    System.out.print((int)s.charAt(i) + " ");
+}
+```
+### ASCII轉文字
+* python
+```python
+s = '65 66 67 68 69'
+t = s.split(' ')
+for u in t:
+    print(chr(int(u)), end='')
+```
+* c++
+```cpp
+#include <cstring>
+char s[] = "65 66 67 68 69";
+char* t = strtok(s, " ");
+while(t != NULL)
+{
+    cout << char(stoi(t));
+    t = strtok(NULL, " ");
+}
+```
+* java
+```java
+String s = "65 66 67 68 69";
+String t[] = s.split(" ");
+for(String u : t)
+{
+    System.out.print((char)Integer.parseInt(u));
+}
+```
