@@ -6,31 +6,30 @@
 ---
 # Crypto
 ### Bugku CTF
-|<a href="https://ctf.bugku.com/challenges/index/gid/1/tid/6.html" target="_blank">連結</a>||||||
+|[連結](https://ctf.bugku.com/challenges/index/gid/1/tid/6.html)||||||
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |/.-|聰明的小羊|ok|[+-<>]|你喜歡下棋嗎|easy_crypto|
 |7+1+0|簡單加密|散亂的密文|.?!|一段Base64|奇怪的密碼|
 |告訴你個秘密|這不是md5|貝斯家族|進制轉換|affine||
 ### OverTheWire Natas
-* <a href="https://overthewire.org/wargames/natas/natas0.html" target="_blank">連結</a>
+* [連結](https://overthewire.org/wargames/natas/natas0.html)
 * natas0 ~ natas11
 * natas14（密碼：Lg96M10TdfaPyVBkJdjymbllQ5L6qdl1）
 ---
 # MISC
-|<a href="https://ctf.bugku.com/challenges/index/gid/1/tid/4.html" target="_blank">連結</a>|持續增加中...||||
+|[連結](https://ctf.bugku.com/challenges/index/gid/1/tid/4.html)|持續增加中...||||
 |:-:|:-:|:-:|:-:|:-:|
 |1和0的故事|這是一張單純的圖片|telnet|眼見非實|啊噠|
 ---
 # 工具
-<a href="https://overthewire.org/wargames/natas/natas0.html" target="_blank">連結</a>
-* <a href="https://portswigger.net/burp/releases/professional-community-2022-3-6?requestededition=community&requestedplatform=" target="_blank">Burp suite</a>
-* <a href="https://cryptii.com/" target="_blank">循序解碼</a>
-* <a href="https://www.dcode.fr/cipher-identifier" target="_blank">密碼分析</a>
-* <a href="https://x-ways.net/winhex/" target="_blank">Winhex</a>
-* Convert.exe<a href="http://down.99u2.com:8099/down/Converter.rar" download>下載</a>
-* <a href="https://morsecode.world/international/decoder/audio-decoder-adaptive.html" target="_blank">摩斯密碼mp3解碼</a>
-* <a href="http://factordb.com/" target="_blank">因式分解</a>
-* <a href="https://tool.oschina.net/encrypt" target="_blank">AES/DES解碼</a>
+* [Burp suite](https://portswigger.net/burp/releases/professional-community-2022-3-6?requestededition=community&requestedplatform=)
+* [循序解碼](https://cryptii.com/)
+* [密碼分析](https://www.dcode.fr/cipher-identifier)
+* [Winhex](https://x-ways.net/winhex/)
+* Convert.exe[下載](http://down.99u2.com:8099/down/Converter.rar)
+* [摩斯密碼mp3解碼](https://morsecode.world/international/decoder/audio-decoder-adaptive.html)
+* [因式分解](http://factordb.com/)
+* [AES/DES解碼](https://tool.oschina.net/encrypt)
 ---
 # 程式碼
 ### Wiener's attack（RSA）
