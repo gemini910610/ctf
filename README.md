@@ -8,9 +8,9 @@
 ### Bugku CTF
 |[連結](https://ctf.bugku.com/challenges/index/gid/1/tid/6.html)||||||
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|/.-|聰明的小羊|[ok](ok.zip)|[+-<>]|[你喜歡下棋嗎](你喜歡下棋嗎.zip)|[easy_crypto](easy_crypto.zip)|
-|[7+1+0](7+1+0.zip)|簡單加密|散亂的密文|[.?!](.!.txt)|[一段Base64](一段Base64.txt)|奇怪的密碼|
-|告訴你個秘密|這不是md5|貝斯家族|[進制轉換](進制轉換.txt)|affine||
+|/.-|聰明的小羊|[ok](crypto/ok.zip)|[+-<>]|[你喜歡下棋嗎](crypto/你喜歡下棋嗎.zip)|[easy_crypto](crypto/easy_crypto.zip)|
+|[7+1+0](crypto/7+1+0.zip)|簡單加密|散亂的密文|[.?!](crypto/.!.txt)|[一段Base64](crypto/一段Base64.txt)|奇怪的密碼|
+|告訴你個秘密|這不是md5|貝斯家族|[進制轉換](crypto/進制轉換.txt)|affine||
 ### OverTheWire Natas
 * [連結](https://overthewire.org/wargames/natas/natas0.html)
 * natas0 ~ natas10
@@ -18,8 +18,8 @@
 # MISC
 |[連結](https://ctf.bugku.com/challenges/index/gid/1/tid/4.html)|持續增加中...||||
 |:-:|:-:|:-:|:-:|:-:|
-|[1和0的故事](1和0的故事.txt)|[這是一張單純的圖片](這是一張單純的圖片.jpg)|[telnet](telnet.zip)|[眼見非實](眼見非實.zip)|[啊噠](啊噠.zip)|
-|[隱寫1](隱寫.rar)|[隱寫2](隱寫2.jpeg)|[隱寫3](隱寫3.png)|[花點流量聽聽歌](花點流量聽聽歌.mp3)||
+|[1和0的故事](misc/1和0的故事.txt)|[這是一張單純的圖片](misc/這是一張單純的圖片.jpg)|[telnet](misc/telnet.zip)|[眼見非實](misc/眼見非實.zip)|[啊噠](misc/啊噠.zip)|
+|[隱寫1](misc/隱寫.rar)|[隱寫2](misc/隱寫2.jpeg)|[隱寫3](misc/隱寫3.png)|[花點流量聽聽歌](misc/花點流量聽聽歌.mp3)||
 ---
 # 工具
 * [Winhex](https://x-ways.net/winhex/)
