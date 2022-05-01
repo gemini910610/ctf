@@ -8,7 +8,7 @@
 ### Bugku CTF
 |[連結](https://ctf.bugku.com/challenges/index/gid/1/tid/6.html)||||||
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|/.-|聰明的小羊|[ok](crypto/ok.zip)|[+-<>]|[你喜歡下棋嗎](crypto/你喜歡下棋嗎.zip)|[easy_crypto](crypto/easy_crypto.zip)|
+|/.-|聰明的小羊|[ok](crypto/ok.txt)|[+-<>]|[你喜歡下棋嗎](crypto/你喜歡下棋嗎.zip)|[easy_crypto](crypto/easy_crypto.zip)|
 |[7+1+0](crypto/7+1+0.zip)|簡單加密|散亂的密文|[.?!](crypto/.!.txt)|[一段Base64](crypto/一段Base64.txt)|奇怪的密碼|
 |告訴你個秘密|這不是md5|貝斯家族|[進制轉換](crypto/進制轉換.txt)|affine||
 ### OverTheWire Natas
