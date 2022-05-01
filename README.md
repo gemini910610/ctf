@@ -18,8 +18,8 @@
 # MISC
 |[連結](https://ctf.bugku.com/challenges/index/gid/1/tid/4.html)|持續增加中...||||
 |:-:|:-:|:-:|:-:|:-:|
-|1和0的故事|這是一張單純的圖片|telnet|眼見非實|啊噠|
-|隱寫1|隱寫2|隱寫3|花點流量聽聽歌||
+|[1和0的故事](https://github.com/gemini910610/ctf/blob/main/1和0的故事.txt)|[這是一張單純的圖片](https://github.com/gemini910610/ctf/blob/main/這是一張單純的圖片.jpg)|[telnet](https://github.com/gemini910610/ctf/blob/main/telnet.zip)|[眼見非實](https://github.com/gemini910610/ctf/blob/main/眼見非實.zip)|[啊噠](https://github.com/gemini910610/ctf/blob/main/啊噠.zip)|
+|[隱寫1](https://github.com/gemini910610/ctf/blob/main/隱寫.rar)|[隱寫2](https://github.com/gemini910610/ctf/blob/main/隱寫2.jpeg)|[隱寫3](https://github.com/gemini910610/ctf/blob/main/隱寫3.png)|[花點流量聽聽歌](https://github.com/gemini910610/ctf/blob/main/花點流量聽聽歌.mp3)||
 ---
 # 工具
 * [Winhex](https://x-ways.net/winhex/)
