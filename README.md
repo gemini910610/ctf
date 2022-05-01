@@ -19,6 +19,7 @@
 |[連結](https://ctf.bugku.com/challenges/index/gid/1/tid/4.html)|持續增加中...||||
 |:-:|:-:|:-:|:-:|:-:|
 |1和0的故事|這是一張單純的圖片|telnet|眼見非實|啊噠|
+|隱寫1|隱寫2|隱寫3|花點流量聽聽歌||
 ---
 # 工具
 * [Winhex](https://x-ways.net/winhex/)
