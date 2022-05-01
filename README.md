@@ -19,7 +19,7 @@
 |[連結](https://ctf.bugku.com/challenges/index/gid/1/tid/4.html)|持續增加中...||||
 |:-:|:-:|:-:|:-:|:-:|
 |[1和0的故事](1和0的故事.txt)|[這是一張單純的圖片](這是一張單純的圖片.jpg)|[telnet](telnet.zip)|[眼見非實](眼見非實.zip)|[啊噠](啊噠.zip)|
-|[隱寫1](https://github.com/gemini910610/ctf/blob/main/隱寫.rar)|[隱寫2](https://github.com/gemini910610/ctf/blob/main/隱寫2.jpeg)|[隱寫3](https://github.com/gemini910610/ctf/blob/main/隱寫3.png)|[花點流量聽聽歌](https://github.com/gemini910610/ctf/blob/main/花點流量聽聽歌.mp3)||
+|[隱寫1](隱寫.rar)|[隱寫2](隱寫2.jpeg)|[隱寫3](隱寫3.png)|[花點流量聽聽歌](花點流量聽聽歌.mp3)||
 ---
 # 工具
 * [Winhex](https://x-ways.net/winhex/)
