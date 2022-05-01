@@ -28,6 +28,7 @@
 * [循序解碼](https://cryptii.com/)
 * [AES/DES解碼](https://tool.oschina.net/encrypt)
 * [摩斯密碼mp3解碼](https://morsecode.world/international/decoder/audio-decoder-adaptive.html)
+* [摩斯密碼文字解碼](https://morsecode.world/international/translator.html)
 * [因式分解](http://factordb.com/)
 * Convert.exe[下載](http://down.99u2.com:8099/down/Converter.rar)
 ---
