@@ -31,6 +31,7 @@
 * [摩斯密碼文字解碼](https://morsecode.world/international/translator.html)
 * [因式分解](http://factordb.com/)
 * Convert.exe[下載](http://down.99u2.com:8099/down/Converter.rar)
+* Foremost.exe[下載](misc/foremost.exe)
 ---
 # 程式碼
 ### Wiener's attack（RSA）
