@@ -13,7 +13,8 @@
 |告訴你個秘密|這不是md5|貝斯家族|[進制轉換](crypto/進制轉換.txt)|affine||
 ### OverTheWire Natas
 * [連結](https://overthewire.org/wargames/natas/natas0.html)
-* natas0 ~ natas10
+* natas0 ~ natas3（包含）
+* natas5 ~ natas10（包含）
 * 帳號：natas5 密碼：iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq
 ---
 # MISC
