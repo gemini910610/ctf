@@ -14,6 +14,7 @@
 ### OverTheWire Natas
 * [連結](https://overthewire.org/wargames/natas/natas0.html)
 * natas0 ~ natas10
+* 帳號：natas5 密碼：iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq
 ---
 # MISC
 |[連結](https://ctf.bugku.com/challenges/index/gid/1/tid/4.html)|持續增加中...||||
