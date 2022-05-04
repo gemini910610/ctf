@@ -1,6 +1,7 @@
 ### 目錄
 * [Crypto](#crypto)
 * [MISC](#misc)
+* [自製練習題](#自製練習題)
 * [工具](#工具)
 * [程式碼](#程式碼)
 ---
@@ -16,6 +17,10 @@
 * natas0 ~ natas3（包含）
 * natas5 ~ natas10（包含）
 * 帳號：natas5 密碼：iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq
+### HackMe CTF
+|[連結](https://ctf.hackme.quest/)|||||
+|:-:|:-:|:-:|:-:|:-:|
+||||||
 ---
 # MISC
 ### Bugku CTF
@@ -27,6 +32,11 @@
 |[連結](https://ctf.hackme.quest/)|||||
 |:-:|:-:|:-:|:-:|:-:|
 |[corgi can fly](misc/corgi-can-fly.png)|[big](misc/big.xxz)||||
+---
+# 自製練習題
+* [dog](origin/dog.jpg)
+* [OuO](origin/OuO)
+* [special caesar](origin/specialcaesar.zip)
 ---
 # 工具
 * [Winhex](https://x-ways.net/winhex/)(16進位查看檔案)
