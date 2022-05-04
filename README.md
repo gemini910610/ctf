@@ -38,7 +38,7 @@
 分析檔案
 `python binwalk <檔案>`
 分離檔案
-`python binwalk -e <檔案>`
+`python binwalk <檔案> -e`
 ---
 # 程式碼
 ### Wiener's attack（RSA）
