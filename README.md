@@ -17,10 +17,6 @@
 * natas0 ~ natas3（包含）
 * natas5 ~ natas10（包含）
 * 帳號：natas5 密碼：iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq
-### HackMe CTF
-|[連結](https://ctf.hackme.quest/)|||||
-|:-:|:-:|:-:|:-:|:-:|
-||||||
 ---
 # MISC
 ### Bugku CTF
