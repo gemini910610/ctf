@@ -18,13 +18,18 @@
 * 帳號：natas5 密碼：iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq
 ---
 # MISC
+### Bugku CTF
 |[連結](https://ctf.bugku.com/challenges/index/gid/1/tid/4.html)|持續增加中...||||
 |:-:|:-:|:-:|:-:|:-:|
 |[1和0的故事](misc/1和0的故事.txt)|[這是一張單純的圖片](misc/這是一張單純的圖片.jpg)|[telnet](misc/telnet.zip)|[眼見非實](misc/眼見非實.zip)|[啊噠](misc/啊噠.zip)|
 |[隱寫1](misc/隱寫.rar)|[隱寫2](misc/隱寫2.jpeg)|[隱寫3](misc/隱寫3.png)|[花點流量聽聽歌](misc/花點流量聽聽歌.mp3)||
+### HackMe CTF
+|[連結](https://ctf.hackme.quest/)|||||
+|:-:|:-:|:-:|:-:|:-:|
+|[corgi can fly](misc/corgi-can-fly.png)|[big](misc/big.xxz)||||
 ---
 # 工具
-* [Winhex](https://x-ways.net/winhex/)
+* [Winhex](https://x-ways.net/winhex/)(16進位查看檔案)
 * [Burp suite](https://portswigger.net/burp/releases/professional-community-2022-3-6?requestededition=community&requestedplatform=)(攔截網路封包)
 * [密碼分析](https://www.dcode.fr/cipher-identifier)
 * [循序解碼](https://cryptii.com/)
@@ -33,11 +38,12 @@
 * [摩斯密碼文字解碼](https://morsecode.world/international/translator.html)
 * [因式分解](http://factordb.com/)
 * Converter.exe[下載](http://down.99u2.com:8099/down/Converter.rar)
+* [Stegsolve]()(分析圖片)
 * [Foremost.exe](misc/foremost.exe)(分離檔案) 用法：foremost <檔案>
-* [binwalk](misc/binwalk)(分析檔案/分離檔案)
+* [binwalk](misc/binwalk)(分析檔案/分離檔案(不建議使用))
 分析檔案
 `python binwalk <檔案>`
-分離檔案
+分離檔案(不建議使用)
 `python binwalk <檔案> -e`
 ---
 # 程式碼
