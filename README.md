@@ -25,7 +25,8 @@
 ---
 # 工具
 * [Winhex](https://x-ways.net/winhex/)
-* [Burp suite](https://portswigger.net/burp/releases/professional-community-2022-3-6?requestededition=community&requestedplatform=)
+* [binwalk](misc/binwalk)(分析檔案)
+* [Burp suite](https://portswigger.net/burp/releases/professional-community-2022-3-6?requestededition=community&requestedplatform=)(攔截網路封包)
 * [密碼分析](https://www.dcode.fr/cipher-identifier)
 * [循序解碼](https://cryptii.com/)
 * [AES/DES解碼](https://tool.oschina.net/encrypt)
@@ -33,7 +34,7 @@
 * [摩斯密碼文字解碼](https://morsecode.world/international/translator.html)
 * [因式分解](http://factordb.com/)
 * Convert.exe[下載](http://down.99u2.com:8099/down/Converter.rar)
-* [Foremost.exe](misc/foremost.exe)
+* [Foremost.exe](misc/foremost.exe)(分離檔案) 用法：foremost <檔案>
 ---
 # 程式碼
 ### Wiener's attack（RSA）
