@@ -45,12 +45,10 @@
 * [因式分解](http://factordb.com/)
 * Converter.exe[下載](http://down.99u2.com:8099/down/Converter.rar)
 * [Stegsolve](misc/Stegsolve.jar)(分析圖片)
-* [Foremost.exe](misc/foremost.exe)(分離檔案) 用法：foremost <檔案>
+* [Foremost.exe](misc/foremost.exe)(分離檔案) `foremost <檔案>`
 * [binwalk](misc/binwalk)(分析檔案/分離檔案(不建議使用))
-分析檔案
-`python binwalk <檔案>`
-分離檔案(不建議使用)
-`python binwalk <檔案> -e`
+  * 分析檔案 `python binwalk <檔案>`
+  * 分離檔案(不建議使用) `python binwalk <檔案> -e`
 ---
 # 程式碼
 ### Wiener's attack（RSA）
